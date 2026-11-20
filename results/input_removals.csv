@@ -1,0 +1,73 @@
+site,method,input_removed,mean_change_mse_pct,all_seeds_same_sign
+Jefferson,LSTM,Gauge history,-11.412452550989878,True
+Jefferson,LSTM,NWM as input,-0.5131907954855446,False
+Jefferson,LSTM,All HRRR inputs,12.59200935453643,True
+Jefferson,LSTM,Soil moisture,16.19488798611167,True
+Jefferson,LSTM,Precipitation,-0.7878557978586794,False
+Jefferson,LSTM,Temperature,2.2316193360758367,True
+Jefferson,LSTM,Humidity,2.2900638703781673,False
+Jefferson,LSTM,Snow,0.5480254962779669,False
+Jefferson,GRU+Conv,Gauge history,7.4004683239740965,True
+Jefferson,GRU+Conv,NWM as input,2.8328234398054875,True
+Jefferson,GRU+Conv,All HRRR inputs,19.068960565194345,True
+Jefferson,GRU+Conv,Soil moisture,21.08206764191023,True
+Jefferson,GRU+Conv,Precipitation,-0.5643064818349048,False
+Jefferson,GRU+Conv,Temperature,-2.2971628457968336,False
+Jefferson,GRU+Conv,Humidity,1.5472587670389095,False
+Jefferson,GRU+Conv,Snow,7.219623520483198,True
+Jefferson,Transformer,Gauge history,1.9744399473314744,False
+Jefferson,Transformer,NWM as input,-5.074966604709878,False
+Jefferson,Transformer,All HRRR inputs,29.170463591841393,True
+Jefferson,Transformer,Soil moisture,30.463291113664948,True
+Jefferson,Transformer,Precipitation,0.03614028016737751,False
+Jefferson,Transformer,Temperature,-3.8776657595859243,False
+Jefferson,Transformer,Humidity,-3.382006777728367,False
+Jefferson,Transformer,Snow,2.952450721317194,False
+Galax,LSTM,Gauge history,23.972546845263608,True
+Galax,LSTM,NWM as input,6.347449641354546,False
+Galax,LSTM,All HRRR inputs,33.606547228623704,True
+Galax,LSTM,Soil moisture,25.074650771793078,True
+Galax,LSTM,Precipitation,6.777128424149115,False
+Galax,LSTM,Temperature,0.760608925138262,False
+Galax,LSTM,Humidity,-0.08181804419199468,False
+Galax,LSTM,Snow,5.60810164479828,False
+Galax,GRU+Conv,Gauge history,15.688005310856443,True
+Galax,GRU+Conv,NWM as input,-9.46390924255528,True
+Galax,GRU+Conv,All HRRR inputs,27.86537911537783,True
+Galax,GRU+Conv,Soil moisture,22.13067622064745,True
+Galax,GRU+Conv,Precipitation,1.0292605673114705,False
+Galax,GRU+Conv,Temperature,-1.2276400857477388,False
+Galax,GRU+Conv,Humidity,-0.35175457718170655,False
+Galax,GRU+Conv,Snow,-0.43867644601070693,False
+Galax,Transformer,Gauge history,4.338048196833969,False
+Galax,Transformer,NWM as input,21.687162111395818,True
+Galax,Transformer,All HRRR inputs,68.23725004215433,True
+Galax,Transformer,Soil moisture,61.45096926111788,True
+Galax,Transformer,Precipitation,1.8094582756167303,False
+Galax,Transformer,Temperature,-1.7819144965447158,False
+Galax,Transformer,Humidity,-4.607290887582268,False
+Galax,Transformer,Snow,-4.589654292075462,False
+Sugar Grove,LSTM,Gauge history,0.11827330599250008,True
+Sugar Grove,LSTM,NWM as input,-1.6469450251774116,True
+Sugar Grove,LSTM,All HRRR inputs,0.8134480077484593,True
+Sugar Grove,LSTM,Soil moisture,0.8236969121210672,True
+Sugar Grove,LSTM,Precipitation,-0.23116079065698125,True
+Sugar Grove,LSTM,Temperature,0.2419776333634327,False
+Sugar Grove,LSTM,Humidity,-0.35506842466348865,True
+Sugar Grove,LSTM,Snow,0.809078211885598,True
+Sugar Grove,GRU+Conv,Gauge history,-0.015595750232899608,False
+Sugar Grove,GRU+Conv,NWM as input,-0.03668597425062019,True
+Sugar Grove,GRU+Conv,All HRRR inputs,0.44498824177356955,True
+Sugar Grove,GRU+Conv,Soil moisture,0.39997113054828964,True
+Sugar Grove,GRU+Conv,Precipitation,-0.05722658209205885,False
+Sugar Grove,GRU+Conv,Temperature,0.009052460042446864,False
+Sugar Grove,GRU+Conv,Humidity,-0.053071577791818925,False
+Sugar Grove,GRU+Conv,Snow,0.03425695347617126,False
+Sugar Grove,Transformer,Gauge history,-0.8441683197340399,True
+Sugar Grove,Transformer,NWM as input,-4.778830621199159,True
+Sugar Grove,Transformer,All HRRR inputs,0.9378647728062331,True
+Sugar Grove,Transformer,Soil moisture,-0.01920363616515116,True
+Sugar Grove,Transformer,Precipitation,-0.6358682234587281,False
+Sugar Grove,Transformer,Temperature,-0.032820730412153054,True
+Sugar Grove,Transformer,Humidity,0.43896723286833694,True
+Sugar Grove,Transformer,Snow,-0.19834554957562553,True

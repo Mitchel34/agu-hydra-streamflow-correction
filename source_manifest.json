@@ -1,0 +1,14 @@
+{
+  "study_freeze": "171a918964f101b5958bac286bcdbaf37a920fa5",
+  "original_file_sha256": {
+    "src/agu_hydra/models/architectures.py": "d5cd1b1cf450121fb3e131fdc11516bb2945e20dcb7c37f4ab287e8bb44f2dac",
+    "src/agu_hydra/models/config.py": "dbdddc13bf5a67596ec5023682cdb3eedac7c3ca34cdf5086708b43a0f48fa64",
+    "src/agu_hydra/models/inputs.py": "df265f78ff986c59670aba72ddd2361c4d56ef8486b4a2d58ef357d5091ae2c4",
+    "src/agu_hydra/models/losses.py": "4ff039552c72c216c2198f0161a7eb1d940fad7ae133e1ce79bff8bbff4fd466",
+    "src/agu_hydra/training/ablations.py": "1d307f4b459f2744c1cf63e1cf8b9b55de249b7c576f3c8980c463c33768615b"
+  },
+  "public_chart_data_revision": "3826e5d78389b58be04cf7e773fbe05fc04ac920",
+  "public_chart_data_sha256": "11ea94b95db325cc0f5c791cf444b5e54cf2f976caa4f77f46dc20fd1e8b4c37",
+  "jefferson_spread_study_scorecard_sha256": "053d6f2ee6b2420c78def44fd9170983ae03148dd27b37e327d94a74f880e878",
+  "jefferson_spread_csv_sha256": "81ebf39fe0e71789d0a4935c8556a0cfe5618384afb55cceba157c21b34cdc58"
+}

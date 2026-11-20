@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the AGU poster when using this study or its results."
+title: "Hydra: Identifying Data That Improve Local National Water Model Streamflow Estimates"
+authors:
+  - family-names: Carson
+    given-names: Mitchel
+  - family-names: Javidian
+    given-names: Mohammad Ali
+  - family-names: Anderson
+    given-names: William P.
+    name-suffix: Jr.
+url: "https://www.hydramodel.ai/"
+type: software
